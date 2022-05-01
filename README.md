@@ -3,7 +3,11 @@
 1. Project Title
   - Project title is Landing Page Of a School Website
 2. Project Description
-4. How to install and Run
-5. How to use the project
-6. Credits
+ - 
+3. How to install and Run
+ - 
+4. How to use the project
+ -
+5. Credits
+ -
 
